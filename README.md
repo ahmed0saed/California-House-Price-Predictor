@@ -33,8 +33,9 @@ This project is a deep learning model built to predict the median house value fo
     Execute the cells sequentially to preprocess the data, train the model, and launch the Gradio interface.
 
 ---
-## 📸 Demo Screenshot
+## 📸 Screenshot
 <img width="1890" height="896" alt="Screenshot 2025-08-27 020525" src="https://github.com/user-attachments/assets/f04958d5-6784-4c07-b94a-e446ae08facf" />
+
 
 
 
