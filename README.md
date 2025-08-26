@@ -34,6 +34,7 @@ This project is a deep learning model built to predict the median house value fo
 
 ---
 ## 📸 Demo Screenshot
+<img width="1890" height="896" alt="Screenshot 2025-08-27 020525" src="https://github.com/user-attachments/assets/f04958d5-6784-4c07-b94a-e446ae08facf" />
 
 
-*You can take a screenshot of your Gradio app and add it here in your GitHub repo.*
+
